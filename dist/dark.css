@@ -382,10 +382,10 @@ code,
   background-color: #222327;
 }
 .rc-old .message {
-  margin-top: 40px;
+  margin-top: 5px;
 }
 .rc-old .message .message-actions {
-  bottom: 4px;
+  bottom: 0px;
   top: auto;
 }
 .rc-old .message::after {
@@ -395,7 +395,7 @@ code,
   left: 0;
   pointer-events: none;
   position: absolute;
-  top: -20px;
+  top: -5px;
   width: 100%;
 }
 .rc-old .message.sequential {
@@ -1056,7 +1056,7 @@ code,
   padding: 0;
 }
 .messages-box ul {
-  padding-bottom: 20px;
+  padding-bottom: 5px;
 }
 .rc-old #login-card .submit {
   margin-bottom: 12px;
